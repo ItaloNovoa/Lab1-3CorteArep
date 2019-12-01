@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArepProyectApplication",
+            "request": "launch",
+            "mainClass": "edu.arep.proyect.ArepProyect.ArepProyectApplication",
+            "projectName": "ArepProyect"
+        }
+    ]
+}
