@@ -43,7 +43,7 @@ https://docs.aws.amazon.com/es_es/autoscaling/ec2/userguide/GettingStartedTutori
 -  editar el grupo de autoescalamiento
 ![image](https://user-images.githubusercontent.com/42522754/69928695-72a9e280-148a-11ea-9922-aa77a59d66ba.png)
 
--cambiar a los valores de la imagen para poder aligerar costos con 0 instancias y para ver el escalamiento con las 2 instancias
+- cambiar a los valores de la imagen para poder aligerar costos con 0 instancias y para ver el escalamiento con las 2 instancias
 
 ![image](https://user-images.githubusercontent.com/42522754/69928746-9c630980-148a-11ea-8f4c-be20dcf10f76.png)
 
